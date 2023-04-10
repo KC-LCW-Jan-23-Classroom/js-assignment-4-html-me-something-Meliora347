@@ -1,1 +1,24 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    background-color: rgba(60, 60, 63, 0.089);
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+
+}
+
+.funParagraph {
+    color: green
+}
+
+.float-img {
+    /* float: left; */
+    clear: left;
+    margin: 10px;
+    /* border: blue 1px; */
+    padding: 10px
+}
+
